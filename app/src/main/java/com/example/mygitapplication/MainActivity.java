@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         findViewById();
         Listenrs();
+        int AdityaBalance = 10;
     }
 
     private void Listenrs() {
